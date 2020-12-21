@@ -1,0 +1,190 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "componentes-bs",
+    "title": "1. Materiales e insumos de confección",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "2componentes-bs",
+    "title": "2. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "2componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "3componentes-bs",
+    "title": "3. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "3componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "4componentes-bs",
+    "title": "4. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "4componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "5componentes-bs",
+    "title": "5. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/5-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "5componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "6componentes-bs",
+    "title": "6. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/6-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "6componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "7componentes-bs",
+    "title": "7. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/7-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "7componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "8componentes-bs",
+    "title": "8. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/8-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "8componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "9componentes-bs",
+    "title": "9. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/9-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "9componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "10componentes-bs",
+    "title": "10. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/10-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "10componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "11componentes-bs",
+    "title": "11. Componentes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/11-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "11componentes-bs",
+        "title": "Títulos",
+        "anchor": "titulos"
+      }    
+    ]   
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  } 
+]
