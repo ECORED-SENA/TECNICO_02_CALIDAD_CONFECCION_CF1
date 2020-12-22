@@ -37,8 +37,10 @@ html(lang="es")
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
                                     +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'Normativa vigente proceso ECCL', '#tema-1')
-                                    +navTemaItem('question', 'Actividad didáctica', '#evaluacion')
+                                    +navTemaItem('1', 'Materiales e insumos de confección', '#tema-1')
+                                    +navTemaItem('2', 'Textiles', '#tema-2')
+                                    +navTemaItem('3', 'Puesta a punto y manejo básico de maquinaria de confección', '#tema-3')
+                                    +navTemaItem('4', 'Normas de Calidad', '#tema-4')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
                                     +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
@@ -49,8 +51,12 @@ html(lang="es")
                 include pages/introduccion.pug
             #tema-1
                 include pages/1-tema.pug
-            #evaluacion
-                include pages/actividad-1.pug
+            #tema-2
+                include pages/2-tema.pug
+            #tema-3
+                include pages/3-tema.pug                
+            #tema-4
+                include pages/4-tema.pug
             #glosario
                 include pages/glosario.pug
             #anexos

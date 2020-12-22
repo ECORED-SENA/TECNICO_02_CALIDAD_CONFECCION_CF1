@@ -7,184 +7,134 @@
   },  
   { 
     "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introducion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"
+  },  
+  { 
+    "id": 1,
     "icon": "fa fa-play-circle",
-    "slug": "componentes-bs",
+    "slug": "Materiales_e_insumos_de_confeccion",
     "title": "1. Materiales e insumos de confección",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
+        "icon": "fa fa-play-circle",
+        "slug": "Materiales_e_insumos_de_confeccion",
+        "title": "1.1. Clasificación y descripción de materiales de acuerdo con procesos de producción",
+        "anchor": "11"
+      },
+      {
         "icon": "fa fa-file-text",
-        "slug": "componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
+        "slug": "Materiales_e_insumos_de_confeccion",
+        "title": "1.2. Clasificación y descripción de insumos de acuerdo con líneas de producción",
+        "anchor": "12"
       }    
     ]   
   },
   { 
     "id": 1,
     "icon": "fa fa-play-circle",
-    "slug": "2componentes-bs",
-    "title": "2. Componentes",
+    "slug": "Textiles",
+    "title": "2. Textiles",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/2-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "2componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
+        "slug": "Textiles",
+        "title": "2.1. Clasificación y descripción de textiles",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Textiles",
+        "title": "2.2. Clasificación y propiedades de hilos",
+        "anchor": "22"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Textiles",
+        "title": "2.3. Clasificación y usos de tejidos",
+        "anchor": "23"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Textiles",
+        "title": "2.4. Aplicación de textiles de acuerdo con líneas de producción",
+        "anchor": "24"
       }    
     ]   
   },
   { 
     "id": 1,
     "icon": "fa fa-play-circle",
-    "slug": "3componentes-bs",
-    "title": "3. Componentes",
+    "slug": "Puesta_a_punto_y_manejo_basico_de_maquinaria_de_confeccion",
+    "title": "3. Puesta a punto y manejo básico de maquinaria de confección",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/3-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "3componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
+        "slug": "Puesta_a_punto_y_manejo_basico_de_maquinaria_de_confeccion",
+        "title": "3.1. Enhebrados de maquinaria de confección industrial",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puesta_a_punto_y_manejo_basico_de_maquinaria_de_confeccion",
+        "title": "3.2. Graduación de tensiones de los hilos",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puesta_a_punto_y_manejo_basico_de_maquinaria_de_confeccion",
+        "title": "3.3. Nivel de arrastre: ajuste de maquinaria",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "Puesta_a_punto_y_manejo_basico_de_maquinaria_de_confeccion",
+        "title": "3.4. Calibración de puntada",
+        "anchor": "34"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "Puesta_a_punto_y_manejo_basico_de_maquinaria_de_confeccion",
+        "title": "3.5. Puesta a punto de la maquinaría y prueba de costura según operación de confección",
+        "anchor": "35"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "Puesta_a_punto_y_manejo_basico_de_maquinaria_de_confeccion",
+        "title": "3.6. Manejo y operaciones básicas de máquinas de confección industrial",
+        "anchor": "36"
+      }      
     ]   
   },
   { 
     "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "4componentes-bs",
-    "title": "4. Componentes",
+    "icon": "fa fa-file-text",
+    "slug": "Normas_de_Calidad",
+    "title": "4. Normas de Calidad",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/4-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "4componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
-    ]   
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "5componentes-bs",
-    "title": "5. Componentes",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/5-tema.html",    
-    "submenu": [
+        "slug": "Normas_de_Calidad",
+        "title": "4.1. Normas Técnicas Colombianas en Confección",
+        "anchor": "41"
+      },
       {
         "icon": "fa fa-file-text",
-        "slug": "5componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
+        "slug": "Normas_de_Calidad",
+        "title": "4.2. Normas de calidad internacional: ISO 9001 Versión 2015. Sistema de Gestión de la Calidad – Requisitos",
+        "anchor": "42"
       }    
     ]   
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "6componentes-bs",
-    "title": "6. Componentes",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/6-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "6componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
-    ]   
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "7componentes-bs",
-    "title": "7. Componentes",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/7-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "7componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
-    ]   
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "8componentes-bs",
-    "title": "8. Componentes",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/8-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "8componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
-    ]   
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "9componentes-bs",
-    "title": "9. Componentes",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/9-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "9componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
-    ]   
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "10componentes-bs",
-    "title": "10. Componentes",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/10-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "10componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
-    ]   
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "11componentes-bs",
-    "title": "11. Componentes",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/11-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "11componentes-bs",
-        "title": "Títulos",
-        "anchor": "titulos"
-      }    
-    ]   
-  },
-  {
-    "icon": "fa fa-question-circle",
-    "slug": "actividad-1",
-    "title": "Actividad didáctica",
-    "path": "pages/actividad-1.html"
-  } 
+  }
 ]
