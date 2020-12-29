@@ -36,7 +36,6 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('play', 'Introducción', '#introduccion')
                                     +navTemaItem('1', 'Materiales e insumos de confección', '#tema-1')
                                     +navTemaItem('2', 'Textiles', '#tema-2')
                                     +navTemaItem('3', 'Puesta a punto y manejo básico de maquinaria de confección', '#tema-3')
@@ -47,8 +46,6 @@ html(lang="es")
 
 
         section#mainContent         
-            #introduccion
-                include pages/introduccion.pug
             #tema-1
                 include pages/1-tema.pug
             #tema-2

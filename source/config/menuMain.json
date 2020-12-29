@@ -15,14 +15,14 @@
   },  
   { 
     "id": 1,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "Materiales_e_insumos_de_confeccion",
     "title": "1. Materiales e insumos de confección",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text",
         "slug": "Materiales_e_insumos_de_confeccion",
         "title": "1.1. Clasificación y descripción de materiales de acuerdo con procesos de producción",
         "anchor": "11"
