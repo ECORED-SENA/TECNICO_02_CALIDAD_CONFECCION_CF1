@@ -8,14 +8,6 @@
   { 
     "id": 1,
     "icon": "fa fa-file-text",
-    "slug": "introducion",
-    "title": "Introducción",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/introduccion.html"
-  },  
-  { 
-    "id": 1,
-    "icon": "fa fa-file-text",
     "slug": "Materiales_e_insumos_de_confeccion",
     "title": "1. Materiales e insumos de confección",
     "breadcrumb": ["Inicio","Introducción"],
