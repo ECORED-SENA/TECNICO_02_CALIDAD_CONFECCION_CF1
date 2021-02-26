@@ -111,14 +111,14 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "Normas_de_Calidad",
-    "title": "4. Normas de calidad",
+    "title": "4. Normas de Calidad",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/4-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "Normas_de_Calidad",
-        "title": "4.1. Normas técnicas colombianas en confección",
+        "title": "4.1. Normas Técnicas Colombianas en Confección",
         "anchor": "41"
       },
       {
